@@ -49,6 +49,7 @@ Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.
 1. [Jessica Livingston - Jessica Livingston](articles/jessica-livingston.md)
 1. [The Need to Read - Okuma Ihtiyaci](articles/the-need-to-read.md)
 1. [What You'll Wish You'd Known - Neyi Bilmek İsterdiniz](articles/what-you-will-wish-you-would-known.md)
+1. [How to Get New Ideas - Yeni Fikirler Nasıl Bulunur](articles/how-to-get-new-ideas.md)
 
 ## Çevirmenler
 
