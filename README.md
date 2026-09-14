@@ -1,3 +1,5 @@
+> **Arşivlendi (Eylül 2026).** Çeviriler olduğu gibi duruyor ve okunabilir; yeni çeviri kabul edilmiyor. Katkı veren herkese teşekkürler. Çeviri isteği issue'ları bu yüzden kapatılmadı, kayıt olarak kalıyor.
+
 # paul-graham-turkce
 
 Bu repo [Paul Graham'ın kişisel sayfasındaki](http://paulgraham.com/articles.html) essaylerin(denemelerin) Türkçe'ye çevrilmiş hallerinin yayınlandığı gönüllülük ile büyüyen bir kaynaktır.
